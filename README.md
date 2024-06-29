@@ -23,6 +23,8 @@
 
 - :taxi: Реализовал [проект](https://github.com/TTuPoJILoK/NYC-taxi-analysis) по анализу поездок на такси в Нью-Йорке.
 
+- :cat: Реализовал [проект](https://github.com/TTuPoJILoK/ab_test_cookie_cats) по анализу и дизайну A/B теста для игры Cookie Cats.
+
 - :seedling: Завершил курс по продуктовой и диджитал-аналитике Тинькофф Финтех!
 
 - :zap: Завершил курс симулятор аналитика от Karpov.Courses.
