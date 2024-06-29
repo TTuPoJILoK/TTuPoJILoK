@@ -83,13 +83,14 @@
 
 | Курсы                                                                                                                                         | Дата    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------| :-----: |
+| Основы статистики и A/B-тестирования (Яндекс Практикум)                                                                                       | 06/2024 |
 | [Продуктовая и диджитал-аналитика (Тинькофф Финтех)](certificates/certificate_Tinkoff.pdf)                                                    | 02/2024 |
 | [Симулятор SQL (Karpov.Courses)](https://lab.karpov.courses/certificate/3881f6be-7eed-43c6-bcc3-2bd21ebbb12e/)                                | 10/2023 |
 | [Симулятор аналитика (Karpov.Courses)](https://lab.karpov.courses/certificate/c2e23d7f-2201-406e-8518-ff51c0b4453f/)                          | 09/2023 |
 | [Python: основы и применение (Stepik)](https://stepik.org/cert/1646867)                                                                       | 09/2022 |
 | [Интерактивный тренажер по SQL (Stepik)](https://stepik.org/cert/1646052)                                                                     | 09/2022 |
 | [Введение в Data Science и машинное обучение (Stepik)](https://stepik.org/cert/1630583)                                                       | 08/2022 |
-| [Data Science: Foundations using R (Coursera)](https://coursera.org/share/e551ab0edfae35737fe87ee92c8d3a61)           | 03/2022 |
+| [Data Science: Foundations using R (Coursera)](https://coursera.org/share/e551ab0edfae35737fe87ee92c8d3a61)                                   | 03/2022 |
 | [Программировние на Python (Stepik)](https://stepik.org/cert/1029741)                                                                         | 07/2021 |
 
 --- 
